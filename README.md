@@ -14,7 +14,8 @@ The goal of this exercise was to set up and configure a Windows Server to act as
 ### 1. **Add Roles and Features Wizard**
 - Selected the appropriate local server from the server pool.
 - ![image](https://github.com/user-attachments/assets/a98b468b-f807-4d2c-8fb6-4e16278de9d7) ![image](https://github.com/user-attachments/assets/ef398e19-655f-4871-af8a-712d6328e9f2)
-- Select Server ![image](https://github.com/user-attachments/assets/9810af50-5db1-4042-b6cf-8d276a979ecd) AD DS![image](https://github.com/user-attachments/assets/ec89d5db-2d4d-4f8b-bb9d-2871453ea16e)
+- Select Server ![image](https://github.com/user-attachments/assets/9810af50-5db1-4042-b6cf-8d276a979ecd)
+- AD DS![image](https://github.com/user-attachments/assets/ec89d5db-2d4d-4f8b-bb9d-2871453ea16e)
 - Installed ![image](https://github.com/user-attachments/assets/c522fda5-7af9-4c60-8864-db79fa46fda6)
 
 
